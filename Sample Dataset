@@ -1,0 +1,92 @@
+val destinations = listOf(
+    TravelDestination(
+        1,
+        "Eiffel Tower",
+        "France",
+        R.drawable.paris,
+        "Iconic Parisian landmark with stunning city views.",
+        4.8,
+        false
+    ),
+    TravelDestination(
+        2,
+        "Great Wall",
+        "China",
+        R.drawable.great_wall,
+        "Historic fortification stretching thousands of miles.",
+        4.7,
+        true
+    ),
+    TravelDestination(
+        3,
+        "Machu Picchu",
+        "Peru",
+        R.drawable.machu_picchu,
+        "Ancient Incan city set high in the Andes Mountains.",
+        4.9,
+        false
+    ),
+    TravelDestination(
+        4,
+        "Santorini",
+        "Greece",
+        R.drawable.santorini,
+        "Famous for white-washed buildings and sunsets.",
+        4.6,
+        true
+    ),
+    TravelDestination(
+        5,
+        "Statue of Liberty",
+        "USA",
+        R.drawable.statue_liberty,
+        "Symbol of freedom in New York Harbor.",
+        4.5,
+        false
+    ),
+    TravelDestination(
+        6,
+        "Colosseum",
+        "Italy",
+        R.drawable.colosseum,
+        "Ancient Roman amphitheater in Rome.",
+        4.7,
+        false
+    ),
+    TravelDestination(
+        7,
+        "Burj Khalifa",
+        "UAE",
+        R.drawable.burj_khalifa,
+        "World's tallest skyscraper in Dubai.",
+        4.6,
+        true
+    ),
+    TravelDestination(
+        8,
+        "Niagara Falls",
+        "Canada",
+        R.drawable.niagara_falls,
+        "Powerful waterfalls on the US-Canada border.",
+        4.8,
+        false
+    ),
+    TravelDestination(
+        9,
+        "Mount Fuji",
+        "Japan",
+        R.drawable.mount_fuji,
+        "Japan’s tallest mountain and cultural icon.",
+        4.7,
+        false
+    ),
+    TravelDestination(
+        10,
+        "Sydney Opera House",
+        "Australia",
+        R.drawable.sydney_opera,
+        "Iconic performing arts center in Sydney.",
+        4.6,
+        true
+    )
+)
