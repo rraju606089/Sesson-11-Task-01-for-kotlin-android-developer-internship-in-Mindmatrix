@@ -1,0 +1,9 @@
+data class TravelDestination(
+    val id: Int,
+    val title: String,
+    val country: String,
+    val imageResId: Int,
+    val description: String,
+    val rating: Double,
+    val isFavourite: Boolean
+)
